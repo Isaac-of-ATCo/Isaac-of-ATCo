@@ -26,5 +26,5 @@ I work at the intersection of governance, risk, and compliance across regulated 
 
 ---
 
-[LinkedIn](https://linkedin.com/in/isaackahiri/) · Open to remote GRC roles globally. Relocation considered.
+[LinkedIn](https://linkedin.com/in/isaackahiri/) · Open to remote and in-office GRC roles globally.
 
