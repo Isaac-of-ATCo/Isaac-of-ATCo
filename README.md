@@ -16,7 +16,7 @@ I work at the intersection of governance, risk, and compliance in healthcare, an
 ## Current focus
 
 - Healthcare GRC analysis — HIPAA, NIST CSF, HICP
-- Building the [Episource 2025 case study](https://github.com/Isaac-of-ATCo/grc_portfolio)
+- Building the [Episource 2025 case study](https://github.com/Isaac-of-ATCo/grc_portfolio/blob/main/case-studies/episource-grc-analysis.md)
 - Developing The School of Enough — a digital school of philosophy addressing existential fatigue
 
 ## Certifications
