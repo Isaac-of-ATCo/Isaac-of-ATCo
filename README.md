@@ -1,8 +1,8 @@
 # Isaac Kahiri
 
-Healthcare GRC analyst and counseling psychologist: because most compliance failures are rarely technical. They are human.
+GRC analyst and counseling psychologist: because most compliance failures are rarely technical. They are human.
 
-I work at the intersection of governance, risk, and compliance in healthcare, and I bring a background in counseling psychology and logotherapy to that work. The combination is not accidental. Understanding why people bypass controls, rationalize risk, or fail to act on what they know is as important as knowing the frameworks. I am building a portfolio that reflects both lenses — the regulatory and the behavioral. Based in Nairobi. Open to remote roles globally and to relocation.
+I work at the intersection of governance, risk, and compliance across regulated industries, and I bring a background in counseling psychology and logotherapy to that work. The combination is not accidental. Understanding why people bypass controls, rationalize risk, or fail to act on what they know is as important as knowing the frameworks. I am building a portfolio that reflects both lenses — the regulatory and the behavioral. Based in Nairobi. Open to remote roles globally and to relocation.
 
 ---
 
